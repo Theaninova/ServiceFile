@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:7698a115-e32a-4491-9f42-b2e7476a023e(ServiceFile.build)/813027313145000499">
+    <file name="ServiceFile.xml">
+      <unit id="813027313145000499" at="1,0,338,10" name="ServiceFile.build.ServiceFile" />
+    </file>
+  </root>
+</debug-info>
+

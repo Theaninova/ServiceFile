@@ -1,0 +1,6 @@
+This is a small test file:
+
+[0|localhost|4000]
+[0]~
+[0]?
+{./build/peer|localhost 3000 1 localhost 4000}

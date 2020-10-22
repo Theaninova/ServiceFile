@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:46a99fd9-46ee-483c-873d-6069a45b1c26(ServiceFile.build)/813027313145119197">
+    <file name="ServiceFile.xml">
+      <unit id="813027313145119197" at="1,0,416,10" name="ServiceFile.build.ServiceFile" />
+    </file>
+  </root>
+  <root nodeRef="r:46a99fd9-46ee-483c-873d-6069a45b1c26(ServiceFile.build)/813027313145119321">
+    <file name="ServiceFileDistribution.xml">
+      <unit id="813027313145119321" at="1,0,146,10" name="ServiceFile.build.ServiceFileDistribution" />
+    </file>
+  </root>
+  <root nodeRef="r:46a99fd9-46ee-483c-873d-6069a45b1c26(ServiceFile.build)/813027313145119571">
+    <file name="Info.plist.xml">
+      <unit id="813027313145119571" at="1,0,121,8" name="ServiceFile.build.Info$plist" />
+    </file>
+  </root>
+</debug-info>
+

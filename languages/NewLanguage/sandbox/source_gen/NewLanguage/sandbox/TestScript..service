@@ -1,0 +1,16 @@
+This is a simple test script, nothing fancy.:
+
+[0|localhost|3000]
+{/build/client|localhost 3000}
+[0]!
+[1|localhost|4000]
+[1]?
+[1]~
+[0]
+04 00 44 FF>
+[1]
+04 00 44 FF<
+[1]%
+[0]%
+0F FF A0$
+*

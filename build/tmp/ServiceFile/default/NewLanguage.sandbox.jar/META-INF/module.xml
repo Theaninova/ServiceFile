@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module namespace="NewLanguage.sandbox" type="solution" uuid="6b6d178f-e3cc-456c-b1ac-dce1792f6abd">
+  <dependencies />
+  <uses>
+    <language id="l:bccde9bf-61a0-47d3-ac54-5528183d161b:NewLanguage" />
+  </uses>
+  <classpath>
+    <entry path="." />
+  </classpath>
+  <sources descriptor="NewLanguage.sandbox.msd" jar="NewLanguage.sandbox-src.jar" />
+</module>
